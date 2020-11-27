@@ -19,7 +19,7 @@ const About = () => {
                 <button className='click-here'>Download Cv!</button>
             </div>
             <div className="col-md-3">
-                <h3 style={{color: '#c58c0f'}}> <BsBookHalf/> Education</h3>
+                <h3 style={{color: '#c58c0f'}}> <BsBookHalf/>Education</h3>
                 <div style={{color: '#694545'}}>
                 <h6 style={{color: 'gray', fontWeight: '600'}}>2016 – 2019 – Dhaka, Bangladesh </h6>
                 <h5>Bachelor in Computer Science and Engineering </h5>
