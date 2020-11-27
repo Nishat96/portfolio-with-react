@@ -1,0 +1,25 @@
+.about-me{
+    padding-top: 130px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px 0px;
+}
+.work-history{
+    margin: 0 30px;
+}
+.click-here{
+    color: #c58c0f !important;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #694545;
+    width: 120px;
+    text-align: center;
+    border-radius: 20px;
+    border: none !important;
+    padding: 8px 10px;
+}
+.click-here:hover{
+    background-color: #c58c0f;
+    color: #694545!important;
+}

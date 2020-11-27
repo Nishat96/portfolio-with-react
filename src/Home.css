@@ -1,0 +1,50 @@
+.home{
+    background-image: linear-gradient(90deg,#110731, black);
+}
+.pro-pic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+.info{
+    text-align: center;
+    color: #c58c0f;
+    padding-top: 30px;
+}
+.in-line{
+    width: 100px;
+    height: 1px;
+    background-color: #c58c0f;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.linkedIn-btn{
+    background-color: #e6d072;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 12px;
+}
+.github-btn{
+    background-color: #e6d072;
+    color: black;
+    border: none;
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 10px;
+}
+.linkedIn-btn:hover {
+    color: #e6d072;
+    background-color: black;
+}
+.github-btn:hover {
+    color: #e6d072;
+    background-color: black;
+}
